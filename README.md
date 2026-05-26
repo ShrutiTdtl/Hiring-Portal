@@ -82,8 +82,6 @@ HiringPortal/
 │
 ├── backend/
 │
-├── screenshots/
-│
 └── README.md
 ```
 
